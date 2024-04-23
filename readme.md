@@ -2,7 +2,7 @@
 
 Cette mission a pour but de créer un générateur de mots de passe en Javascript et Html/CSS accessible depuis le web
 
-## Visuels (retirez le titre une fois renseigné)
+## Visuels
 
 ![alt text](https://github.com/JeremieTran/generateurmdp/blob/master/mdpgenerator.png)
 
